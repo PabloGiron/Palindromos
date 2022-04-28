@@ -2,4 +2,3 @@ Para la ejecución del código se necesita tener instalado Node en el ordenador 
 
 ```
 node 01-Palindrome.js
-´´´
